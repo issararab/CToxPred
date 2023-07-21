@@ -34,7 +34,11 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
 The software saves the predictions to a CSV file named 'predictions.csv'
 
 ## Hot stuff
-
+- Distribution of the pairwise Tanimoto similarity for each molecule in the datasets used for training and model evaluation
+<p align="center">
+	<img src="images/TanimotoSimilarity.png" />
+</p>
+ 
 - Distributions of the 8 physicochemical properties between inhibitor(blocker) and inactive(non-blocker) compounds in the hERG dataset
 <p align="center">
 	<img src="images/hERG_PhysProperties.png" />
