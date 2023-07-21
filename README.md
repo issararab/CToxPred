@@ -38,11 +38,17 @@ The software cardiotoxicity predictions can be interpreted as follows (Potencies
 
 - Distributions of the 8 physicochemical properties between inhibitor(blocker) and inactive(non-blocker) compounds in the hERG dataset
 <p align="center">
+	<img src="images/hERG_PhysProperties.png" />
+</p>
+
+- Atom composition analysis of molecules in our hERG development set. (a) represents a distribution of the total number of atoms in each molecule with a mean of around 33, while (b) showcases the atom composition distribution of the dataset
+  
+<p align="center">
 	<img src="images/hERG-Molecule-Atom-Info.png" />
 </p>
 
-- Atom composition analysis of molecules in our Nav1.5 development set. (a) represents a distribution of the total number of atoms in each molecule with a mean of around 33, while (b) showcases the atom composition distribution of the dataset
-- 
+- Atom composition analysis of molecules in our Nav1.5 development set. (a) represents a distribution of the total number of atoms in each molecule with a mean of around 35, while (b) showcases the atom composition distribution of the dataset
+  
 <p align="center">
 	<img src="images/Nav-Molecule-Atom-Info.png" />
 </p>
