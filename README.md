@@ -2,7 +2,7 @@
 Comprehensive cardiotoxicity prediction tool of small molecules on three targets: hERG, Nav1.5, Cav1.2
 
 <p align="center">
-	<img src="images/All-ConfusionMatix.png" width="900" height="250" />
+	<img src="images/All-ConfusionMatix.png" />
 </p>
 
 The model predicts Cardiotoxicities based on 2 classes (Potencies are in μM):
