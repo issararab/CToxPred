@@ -5,9 +5,6 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
 	<img src="images/All-ConfusionMatix.png" />
 </p>
 
-The software cardiotoxicity predictions can be interpreted as follows (Potencies are in μM):
- - Blocker     (1) : 0 < IC50 <= 10
- - Non-blocker (0) : IC50 > 10
 
 
 :exclamation:Clone first the whole repository package and follow the steps bellow.
