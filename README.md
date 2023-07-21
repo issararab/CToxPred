@@ -4,16 +4,16 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
 
 <div align="center">
     <figure>
-        <img src="images/confusion_matrix_herg70.png"  />
-        <figcaption><b>(hERG-70)</b></figcaption>
+	<figcaption><b>(hERG-70)</b></figcaption>
+        <img src="images/confusion_matrix_herg70.png"  width="300" height="200"/>
     </figure>
     <figure>
-        <img src="images/confusion_matrix_Nav70.png"  />
-        <figcaption><b>(Nav1.5-70)</b></figcaption>
+	<figcaption><b>(Nav1.5-70)</b></figcaption>
+        <img src="images/confusion_matrix_Nav70.png"  width="300" height="200"/>
     </figure>
     <figure>
-        <img src="images/confusion_matrix_cav70.png"  />
-        <figcaption><b>(Cav1.2-70)</b></figcaption>
+	<figcaption><b>(Cav1.2-70)</b></figcaption>
+        <img src="images/confusion_matrix_cav70.png"  width="300" height="200"/>
     </figure>
 </div>
 
