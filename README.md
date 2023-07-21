@@ -31,6 +31,8 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
 
 		$python CToxPred.py data/test_smiles_list.smi
   
+The software saves the predictions to a CSV file named 'predictions.csv'
+
 ## Hot stuff
 
 - Distributions of the 8 physicochemical properties between inhibitor(blocker) and inactive(non-blocker) compounds in the hERG dataset
