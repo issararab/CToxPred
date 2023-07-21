@@ -34,5 +34,16 @@ The software cardiotoxicity predictions can be interpreted as follows (Potencies
 
 		$python CToxPred.py data/test_smiles_list.smi
   
+## Hot stuff
 
+- Distributions of the 8 physicochemical properties between inhibitor(blocker) and inactive(non-blocker) compounds in the hERG dataset
+<p align="center">
+	<img src="hERG-Molecule-Atom-Info.png" />
+</p>
+
+- Atom composition analysis of molecules in our Nav1.5 development set. (a) represents a distribution of the total number of atoms in each molecule with a mean of around 33, while (b) showcases the atom composition distribution of the dataset
+- 
+<p align="center">
+	<img src="Nav-Molecule-Atom-Info.png" />
+</p>
 
