@@ -2,20 +2,9 @@
 Comprehensive cardiotoxicity prediction tool of small molecules on three targets: hERG, Nav1.5, Cav1.2
 
 
-<div align="center">
-    <figure>
-	<figcaption><b>(hERG-70)</b></figcaption>
-        <img src="images/confusion_matrix_herg70.png" alt="Image 1" width="250" height="200"/>
-    </figure>
-    <figure>
-	<figcaption><b>(Nav1.5-70)</b></figcaption>
-        <img src="images/confusion_matrix_Nav70.png" alt="Image 2" width="250" height="200"/>
-    </figure>
-    <figure>
-	<figcaption><b>(Cav1.2-70)</b></figcaption>
-        <img src="images/confusion_matrix_cav70.png" alt="Image 3" width="250" height="200"/>
-    </figure>
-</div>
+<p align="center">
+	<img src="images/All-ConfusionMatix.png" />
+</p>
 
 
 :exclamation:Clone first the whole repository package and follow the steps bellow.
