@@ -71,7 +71,7 @@ class ClassifierFramework(torch.nn.Module):
         ## Merge paths processing
         out = torch.cat((x, out_fingerprints), dim=1)
         # Fully connected layer
-        out = self.fc(out)
+        out = F.softmax(self.fc(out), dim=1)
 
         return out
 

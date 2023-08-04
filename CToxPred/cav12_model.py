@@ -28,7 +28,7 @@ class Cav12Classifier(torch.nn.Module):
     def forward(self, x):
         out = F.relu(self.linear1(x))
         out = F.relu(self.linear2(out))
-        out = self.linear3(out)
+        out = F.softmax(self.linear3(out), dim=1)
         return out
     
     def save(self, path):
