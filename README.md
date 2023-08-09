@@ -33,6 +33,10 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
   
 The software saves the predictions to a CSV file named 'predictions.csv'
 
+## Data availability
+
+To retrain the models, re-evaluate the models using the same test sets, or re-run the analysis notebook, fetch first the database deposited for public use on Zenode (https://zenodo.org/record/8229664), copy the uncompressed folder (raw) in the (data) folder, then run the notebooks.
+
 ## Hot stuff
 - Distribution of the pairwise Tanimoto similarity for each molecule in the datasets used for training and model evaluation
 <p align="center">
