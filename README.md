@@ -10,7 +10,7 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
 :exclamation:Clone first the whole repository package and follow the steps bellow.
 
 ## Publication
-If you use PEvoLM in your work, please cite the following publication:
+If you use CToxPred in your work, please cite the following publication:
 
 - Issar Arab, Kristof Egghe, Kris Laukens, Ke Chen, Khaled Barakat, Wout Bittremieux, **Benchmarking of Small Molecule Feature Representations for hERG, Nav1.5, and Cav1.2 Cardiotoxicity Prediction**, _Journal of Chemical Information and Modeling_, (2023). [doi:10.1021/acs.jcim.3c01301](https://doi.org/10.1021/acs.jcim.3c01301)
 
