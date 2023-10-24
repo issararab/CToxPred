@@ -9,6 +9,11 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
 
 :exclamation:Clone first the whole repository package and follow the steps bellow.
 
+## Publication
+If you use PEvoLM in your work, please cite the following publication:
+
+- I. Arab, K. Egghe, K. Laukens, K. Chen, K. Barakat, and W. Bittremieux, **Benchmarking of Small Molecule Feature Representations for hERG, Nav1.5, and Cav1.2 Cardiotoxicity Prediction**, Journal of Chemical Information and Modeling, 2023, [doi:10.1021/acs.jcim.3c01301]([https://ieeexplore.ieee.org/document/10264890](https://doi.org/10.1021/acs.jcim.3c01301))
+
 ## Prerequisites
 1- Create and activate a conda environment:
 
@@ -33,9 +38,6 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
   
 The software saves the predictions to a CSV file named 'predictions.csv'
 
-## Manuscript
-
-https://www.biorxiv.org/content/10.1101/2023.08.15.553429v1
 
 ## Data availability
 
