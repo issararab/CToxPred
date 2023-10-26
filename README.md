@@ -3,7 +3,7 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
 
 
 <p align="center">
-	<img src="images/All-ConfusionMatix.png" />
+	<img src="images/Foftware_Graphic.jpg" />
 </p>
 
 
@@ -54,15 +54,8 @@ To re-train the models, re-evaluate the models using the same test sets, or re-r
 	<img src="images/hERG_PhysProperties.png" />
 </p>
 
-- Atom composition analysis of molecules in our hERG development set. (a) represents a distribution of the total number of atoms in each molecule with a mean of around 33, while (b) showcases the atom composition distribution of the dataset
+- Confusion matrix for the performance of CToxPred on all three cardiac ion channels
   
 <p align="center">
-	<img src="images/hERG-Molecule-Atom-Info.png" />
+	<img src="images/All-ConfusionMatix.png" />
 </p>
-
-- Atom composition analysis of molecules in our Nav1.5 development set. (a) represents a distribution of the total number of atoms in each molecule with a mean of around 35, while (b) showcases the atom composition distribution of the dataset
-  
-<p align="center">
-	<img src="images/Nav-Molecule-Atom-Info.png" />
-</p>
-
