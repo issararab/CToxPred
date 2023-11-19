@@ -7,7 +7,7 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
 </p>
 
 
-:exclamation:Clone first the whole repository package and follow the steps bellow.
+:exclamation:Clone first the whole repository and follow the steps bellow.
 
 ## Publication
 If you use CToxPred in your work, please cite the following publication:
@@ -20,14 +20,14 @@ If you use CToxPred in your work, please cite the following publication:
 		$conda create -n ctoxpred python=3.7
 		$conda activate ctoxpred
 
-2- Install packages:
-
-		$bash install.sh
-
-3- Clone the repository: 
+2- Clone the repository: 
 
 		$git clone git@github.com:issararab/CToxPred.git
 
+3- Install packages:
+
+		$bash install.sh
+  
 4- Move to the repository:
 
 		$cd CToxPred
