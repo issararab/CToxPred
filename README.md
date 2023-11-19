@@ -19,18 +19,18 @@ If you use CToxPred in your work, please cite the following publication:
 
 		$conda create -n ctoxpred python=3.7
 		$conda activate ctoxpred
-
+  
 2- Clone the repository: 
 
 		$git clone git@github.com:issararab/CToxPred.git
 
-3- Install packages:
-
-		$bash install.sh
-  
-4- Move to the repository:
+3- Move to the repository:
 
 		$cd CToxPred
+
+4- Install packages:
+
+		$bash install.sh
 
 5- Run test:
 
