@@ -17,7 +17,7 @@ If you use CToxPred in your work, please cite the following publication:
 ## Prerequisites
 1- Create and activate a conda environment:
 
-		$conda create -n ctoxpred python=3.9
+		$conda create -n ctoxpred python=3.7
 		$conda activate ctoxpred
   
 2- Clone the repository: 
