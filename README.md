@@ -3,7 +3,7 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
 
 
 <p align="center">
-	<img src="images/Foftware_Graphic.jpg" style="width:60%; height:60%; />
+	<img src="images/Foftware_Graphic.jpg" style="width:60%; height:60%;" />
 </p>
 
 
