@@ -9,10 +9,12 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
 
 :exclamation:Clone first the whole repository and follow the steps bellow.
 
-## Publication
-If you use CToxPred in your work, please cite the following publication:
+## Publications
+If you use CToxPred in your work, please cite the following publications:
 
 - Issar Arab, Kristof Egghe, Kris Laukens, Ke Chen, Khaled Barakat, Wout Bittremieux, **Benchmarking of Small Molecule Feature Representations for hERG, Nav1.5, and Cav1.2 Cardiotoxicity Prediction**, _Journal of Chemical Information and Modeling_, (2023). [doi:10.1021/acs.jcim.3c01301](https://doi.org/10.1021/acs.jcim.3c01301)
+
+- Issar Arab, Kris Laukens, Wout Bittremieux, **Semisupervised Learning to Boost hERG, Nav1.5, and Cav1.2 Cardiac Ion Channel Toxicity Prediction by Mining a Large Unlabeled Small Molecule Data Set**, _Journal of Chemical Information and Modeling_, (2024). [doi.org/10.1021/acs.jcim.3c01301](https://doi.org/10.1021/acs.jcim.4c01102)
 
 ## Prerequisites
 1- Create and activate a conda environment:
